@@ -1,7 +1,7 @@
 # Course Project
 Team Name:  **Fortune Wheel**
 
-Team Member:  Kaifen Chang (20994658)
+Team Member:  Kaifen Chang 
 
 
 ### How to run the script :
